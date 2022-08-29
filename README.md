@@ -4,9 +4,9 @@ A bash script to play songs and audio in general from YouTube.
 
 # Dependencies
 
-- [pup]([GitHub - ericchiang/pup: Parsing HTML at the command line](https://github.com/ericchiang/pup))
+- [pup](https://github.com/ericchiang/pup)
 
-- [mpv]([GitHub - mpv-player/mpv: 🎥 Command line video player](https://github.com/mpv-player/mpv))
+- [mpv](https://github.com/mpv-player/mpv)
 
 # Usage
 
