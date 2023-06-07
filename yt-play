@@ -1,4 +1,4 @@
 #!/bin/bash
-str='https://y.com.sb/search?q='$(echo $* | sed 's/ /%20/g')
+str='https://yewtu.be/search?q='$(echo $* | sed 's/ /%20/g')
 sheput=$(curl -s $str | pup 'div[class="h-box"] > a attr{href}' | head -n 1)
 mpv $(echo 'https://www.youtube.com'$sheput) --vid=no
