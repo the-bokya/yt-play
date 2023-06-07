@@ -10,7 +10,7 @@ A bash script to play songs and audio in general from YouTube.
 
 # Usage
 
-To play, simply time ./yt-play \<name of the song\>
+To play, simply type ./yt-play \<name of the song\>
 
 For example,
 
